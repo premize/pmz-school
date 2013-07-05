@@ -14,6 +14,13 @@ public class Animal {
 
 	private String tipo;
 	
+	/**
+	 * @author <a href="mailto:elmerdiazlazo@gmail.com">Elmer Jose Diaz Lazo</a>
+	 * @date 5/07/2013
+	 */
+	public Animal() {
+
+	}
 	
 	private String numeroPatas;
 
