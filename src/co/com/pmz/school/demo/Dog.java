@@ -8,7 +8,6 @@ package co.com.pmz.school.demo;
  * @project pmz-school
  * @class Dog
  * @date 5/07/2013
- *
  */
 public class Dog {
 
